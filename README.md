@@ -78,5 +78,5 @@ Caso o problema não seja solucionado pelos procedimentos deste manual, solicite
 ## Controle de versão
 
 | Versão | Data | Alteração | Responsável |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 1.0 | 04/09/2026 | Criação da documentação inicial | Lo |
