@@ -1,15 +1,16 @@
 # StockControl — Manual do Sistema
 ## Sumário
 
-- [Sobre o sistema](#1-sobre-o-sistema)
-- [Público-alvo](#2-público-alvo)
-- [Como acessar](#3-como-acessar)
-- [Cadastro de produto](#4-cadastro-de-produto)
-- [Entrada de estoque](#5-entrada-de-estoque)
-- [Saída de estoque](#6-saída-de-estoque)
-- [Problemas comuns](#7-problemas-comuns)
-- [Suporte](#8-suporte)
+## Sumário
 
+1. Sobre o sistema
+2. Público-alvo
+3. Como acessar
+4. Cadastro de produto
+5. Entrada de estoque
+6. Saída de estoque
+7. Problemas comuns
+8. Suporte
 ## 1. Sobre o sistema
 
 O StockControl é um sistema utilizado para controlar produtos, entradas, saídas e estoque de uma empresa.
