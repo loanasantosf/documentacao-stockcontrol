@@ -9,6 +9,7 @@
 - [Saída de estoque](#6-saída-de-estoque)
 - [Problemas comuns](#7-problemas-comuns)
 - [Suporte](#8-suporte)
+
 ## 1. Sobre o sistema
 
 O StockControl é um sistema utilizado para controlar produtos, entradas, saídas e estoque de uma empresa.
