@@ -92,48 +92,67 @@ Entre em contato com o suporte técnico e informe:
 
 ---
 
-### 7.2 Produto não aparece no estoque
+### 7.2 Não consigo cadastrar um produto
 
-**Problema:**  
-O produto foi cadastrado, mas não aparece na consulta de estoque.
+**Problema:**
+
+O usuário não consegue cadastrar um novo produto no sistema.
 
 **Possíveis causas:**
 
-- Produto cadastrado incorretamente.
-- Entrada de estoque não registrada.
-- Quantidade informada incorretamente.
+- Campos obrigatórios não foram preenchidos.
+- O código do produto já está cadastrado.
+- O usuário não possui permissão para cadastrar produtos.
+- Ocorreu uma falha de conexão com o sistema.
 
-**Procedimento para solução:**
+**Passos para solução:**
 
-1. Acesse o menu **Produtos**.
-2. Pesquise pelo nome ou código do produto.
-3. Confirme se o cadastro está correto.
-4. Acesse o menu **Estoque**.
-5. Verifique se a entrada do produto foi registrada.
-6. Caso necessário, registre a entrada de estoque.
+1. Verifique se todos os campos obrigatórios foram preenchidos.
+2. Verifique se o código do produto já existe no sistema.
+3. Confirme se o usuário possui permissão para cadastrar produtos.
+4. Verifique a conexão com a internet.
+5. Tente cadastrar o produto novamente.
 
-**Resultado esperado:**
+**Se o problema continuar:**
 
-O produto deve aparecer na consulta de estoque com a quantidade atualizada.
+Entre em contato com o suporte técnico e informe:
 
----
+- Nome do usuário.
+- Nome ou código do produto.
+- Data e horário do problema.
+- Mensagem de erro apresentada pelo sistema.
 
-### 7.3 Quantidade do estoque está incorreta
+### 7.3 Estoque não foi atualizado
 
-**Problema:**  
-A quantidade apresentada no sistema é diferente da quantidade física disponível.
+**Problema:**
 
-**Procedimento para solução:**
+O estoque não apresenta a quantidade correta após uma entrada ou saída de produtos.
 
-1. Confira fisicamente a quantidade do produto.
-2. Consulte as últimas entradas de estoque.
-3. Consulte as últimas saídas de estoque.
-4. Identifique possíveis lançamentos incorretos.
-5. Solicite a correção ao responsável pelo estoque, caso necessário.
+**Possíveis causas:**
 
-**Resultado esperado:**
+- A operação não foi confirmada.
+- A quantidade informada está incorreta.
+- O produto selecionado está incorreto.
+- O sistema não atualizou as informações.
 
-A quantidade registrada no sistema deve corresponder à quantidade física disponível.
+**Passos para solução:**
+
+1. Verifique se a operação foi confirmada.
+2. Confira a quantidade informada.
+3. Confirme se o produto correto foi selecionado.
+4. Atualize a página do sistema.
+5. Consulte novamente o estoque.
+
+**Se o problema continuar:**
+
+Entre em contato com o suporte técnico e informe:
+
+- Nome do usuário.
+- Produto afetado.
+- Quantidade informada.
+- Tipo de operação realizada.
+- Data e horário do problema.
+
 ## 8. Suporte
 
 Caso o problema não seja solucionado pelos procedimentos deste manual, solicite atendimento ao suporte técnico.
