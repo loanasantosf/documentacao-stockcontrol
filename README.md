@@ -152,6 +152,42 @@ Entre em contato com o suporte técnico e informe:
 - Quantidade informada.
 - Tipo de operação realizada.
 - Data e horário do problema.
+- 
+  ### 7.4 Sistema apresenta mensagem de erro
+
+**Problema:**
+
+O sistema apresenta uma mensagem de erro durante a utilização.
+
+**Possíveis causas:**
+
+- Falha temporária no sistema.
+- Conexão instável com a internet.
+- Dados informados incorretamente.
+- Usuário não possui permissão para realizar a operação.
+- Erro inesperado no sistema.
+
+**Passos para solução:**
+
+1. Anote a mensagem de erro apresentada.
+2. Verifique se os dados informados estão corretos.
+3. Verifique a conexão com a internet.
+4. Atualize a página e tente realizar a operação novamente.
+5. Caso o erro continue, tente sair e entrar novamente no sistema.
+
+**Se o problema continuar:**
+
+Entre em contato com o suporte técnico e informe:
+
+- Nome do usuário.
+- Data e horário do problema.
+- Operação que estava sendo realizada.
+- Mensagem de erro apresentada.
+- Procedimentos realizados antes de solicitar suporte.
+
+**Importante:**
+
+Não informe sua senha ou outros dados confidenciais ao solicitar suporte.
 
 ## 8. Suporte
 
