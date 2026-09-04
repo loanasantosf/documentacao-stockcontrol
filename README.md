@@ -266,6 +266,54 @@ A operação foi registrada corretamente e a quantidade disponível em estoque f
 
 Antes de finalizar uma saída de estoque, confirme o produto, a quantidade informada e a confirmação da operação. Caso o estoque não seja atualizado, não repita a operação imediatamente. Primeiro verifique se a movimentação já foi registrada no sistema.
 
+### 9.4 Registro e acompanhamento de incidentes
+
+Todo incidente identificado durante a utilização do sistema deve ser registrado e acompanhado até sua resolução.
+
+Ao registrar um incidente, devem ser informadas as seguintes informações:
+
+- Nome do usuário.
+- Data e horário da ocorrência.
+- Sistema ou módulo afetado.
+- Descrição detalhada do problema.
+- Mensagem de erro apresentada, quando houver.
+- Procedimentos realizados para tentar solucionar o problema.
+- Prioridade do incidente.
+- Status do atendimento.
+
+Após o registro, o incidente deve ser analisado pela equipe responsável, que deverá atualizar seu status conforme o andamento do atendimento.
+
+### 9.5 Encerramento de incidentes
+
+Um incidente poderá ser encerrado quando:
+
+- O problema tiver sido solucionado.
+- O usuário tiver confirmado a normalização do sistema.
+- A equipe responsável tiver concluído a análise e registrado a solução aplicada.
+
+O encerramento deve conter uma breve descrição da solução adotada.
+
+---
+
+## 10. Controle de versões
+
+O controle de versões permite acompanhar as alterações realizadas neste manual.
+
+| Versão | Data | Alteração | Responsável |
+|---|---|---|---|
+| 1.0 | 04/09/2026 | Criação do manual do sistema | Equipe responsável |
+| 1.1 | 04/09/2026 | Inclusão da seção de Troubleshooting e procedimentos de incidentes | Equipe responsável |
+
+---
+
+## 11. Considerações finais
+
+Este manual foi elaborado para orientar os usuários na utilização do StockControl e auxiliar na identificação e solução de problemas comuns.
+
+Em caso de dúvidas ou problemas que não possam ser solucionados pelos procedimentos apresentados neste documento, o usuário deverá entrar em contato com o suporte técnico.
+
+As informações deste manual poderão ser atualizadas sempre que novas funcionalidades, procedimentos ou correções forem incorporados ao sistema.
+
 ## Versão
 
 | Versão | Data | Alteração | Responsável |
