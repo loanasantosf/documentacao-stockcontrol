@@ -1,8 +1,6 @@
 # StockControl — Manual do Sistema
 ## Sumário
 
-## Sumário
-
 1. Sobre o sistema
 2. Público-alvo
 3. Como acessar
