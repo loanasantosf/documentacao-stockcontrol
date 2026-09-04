@@ -194,9 +194,81 @@ Não informe sua senha ou outros dados confidenciais ao solicitar suporte.
 Caso o problema não seja solucionado pelos procedimentos deste manual, solicite atendimento ao suporte técnico.
 
 ---
+## 9. Registro de Incidentes
 
-## Controle de versão
+Esta seção apresenta exemplos de incidentes que podem ocorrer durante a utilização do sistema e as informações necessárias para seu registro e acompanhamento.
+
+### 9.1 Incidente: Falha no login
+
+**Descrição:**
+
+Usuário não consegue acessar o sistema utilizando suas credenciais.
+
+**Data:** 04/09/2026
+
+**Prioridade:** Média
+
+**Status:** Resolvido
+
+**Ação realizada:**
+
+Foram verificadas as credenciais informadas, o cadastro do usuário e a conexão com a internet. Após a correção dos dados de acesso, o usuário conseguiu entrar no sistema.
+
+**Resultado:**
+
+Acesso ao sistema restabelecido.
+
+---
+
+### 9.2 Incidente: Estoque não atualizado
+
+**Descrição:**
+
+Após realizar uma entrada de estoque, a quantidade apresentada no sistema não foi atualizada.
+
+**Data:** 04/09/2026
+
+**Prioridade:** Média
+
+**Status:** Em análise
+
+**Ação realizada:**
+
+Foi verificado se a operação havia sido confirmada e se a quantidade informada estava correta. Também foi realizada uma atualização da página.
+
+**Resultado:**
+
+Caso o problema persista, o incidente deverá ser encaminhado ao suporte técnico para análise.
+
+---
+
+### 9.3 Incidente: Saída de estoque não registrada
+
+**Descrição:**
+
+Foi realizada uma saída de estoque, porém a operação não foi registrada corretamente no sistema e a quantidade disponível permaneceu inalterada.
+
+**Data:** 04/09/2026
+
+**Prioridade:** Alta
+
+**Status:** Resolvido
+
+**Ação:**
+
+Foi verificado o produto informado, a quantidade da operação e a confirmação da movimentação. Também foi realizada uma nova tentativa de saída de estoque e atualização da página para validar a alteração.
+
+**Resultado:**
+
+A operação foi registrada corretamente e a quantidade disponível em estoque foi atualizada.
+
+**Procedimento preventivo:**
+
+Antes de finalizar uma saída de estoque, confirme o produto, a quantidade informada e a confirmação da operação. Caso o estoque não seja atualizado, não repita a operação imediatamente. Primeiro verifique se a movimentação já foi registrada no sistema.
+
+## Versão
 
 | Versão | Data | Alteração | Responsável |
 | --- | --- | --- | --- |
-| 1.0 | 04/09/2026 | Criação da documentação inicial | Lo |
+| 1.0 | 04/09/2026 | Criação da documentação inicial | Loana |
+
